@@ -1,0 +1,7 @@
+{
+  "namespace": "http://dirkheinke.de",
+  "copyright": "2022, Dirk Heinke",
+  "require": [],
+  "include": ["https://bitbucket.org/*/pull-requests/*"],
+  "grant": []
+}
